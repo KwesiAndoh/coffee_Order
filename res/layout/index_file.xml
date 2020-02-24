@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#346767" 
+        android:text=" Birthday"
+        android:textColor="#00ff00"
+        android:textSize="50sp" />
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#2305ff" 
+        android:text="Happy "
+        android:textColor="#00ff00"
+        android:textSize="50sp" />
+     
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff00ff" 
+        android:text="Happy "
+        android:textColor="#00ff00"
+        android:textSize="50sp" />"
+
+</LinearLayout>
